@@ -1,0 +1,5 @@
+create a virtual enviroment
+activate the virtual enviroment 
+install these libraries in the virtual enviroment
+pip install gdown
+pip install urllib3==1.25.11
